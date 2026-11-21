@@ -1,4 +1,4 @@
-# SigmaOS-arch-deps
+# SigmaOS-deps
 
 GitHub description is a placeholder; component scope remains unclassified.
 

@@ -1,10 +1,10 @@
 [package]
-name = "arch-deps"
+name = "sigmaos-deps"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-deps component - SigmaOS component"
+description = "SigmaOS SigmaOS-deps component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-deps"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-deps"
 
 [dependencies]
 thiserror = "2"
